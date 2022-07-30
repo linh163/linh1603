@@ -1,0 +1,21 @@
+#random {
+    color: rgb(139, 55, 34);
+    font-size: 30px;
+}
+
+h3 {
+    color: rgb(0, 38, 255);
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#h2 {
+    background-color: rgb(127, 255, 157);
+    width: 100%;
+    text-align: center;
+    height: 300px;
+    font-size: 54px;
+    padding-top: 130px;
+
+}
